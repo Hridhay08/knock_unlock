@@ -1,0 +1,6 @@
+Problem Statement:
+Design a circuit that is capable of reading knocks on the door. If the knocks follow a given pattern or ‘taal’ the door will be unlocked for three seconds before getting locked again. The ‘taal’ to be used is 10110011, where 1 is a knock and 0 is its absence.
+
+
+
+
